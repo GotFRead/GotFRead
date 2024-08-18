@@ -5,7 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23f7df1e?logo=javascript&logoColor=black&style=flat-square)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV%20-%235C3EE8.svg?&style=flat-square&logo=opencv&logoColor=white)
-![Synapse](https://img.shields.io/badge/Synapse%20(T--labs)-%23000000.svg?&style=flat-square&logo=synapse&logoColor=white)
+![Synapse](https://img.shields.io/badge/Synapse%20(T--labs)-%2300599C.svg?&style=flat-square&logo=synapse&logoColor=white)
 
 <p align="center">
   <table>
